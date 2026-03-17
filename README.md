@@ -1,8 +1,10 @@
 # udemy-boostrap-course
-Boostrap projects that i have done for udemy boostrap course
 
-## Info about projects
-**index.html** is my work, index-final.html is instructor's final work...
+Boostrap projects that i have developed for udemy boostrap course
+
+## Starter Template for scss
+
+[Open the guide](./bs5-scss-starter//README.md)
 
 ## Projects
 
