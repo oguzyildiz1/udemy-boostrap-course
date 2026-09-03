@@ -17,6 +17,6 @@ Boostrap projects that i have developed for udemy boostrap course
 > This is project is done in 1.12.2025
 
 <details>
-  <summary>Click for more info</summary>
+  <summary>Click for more insadffo</summary>
  
 </details>
